@@ -13,6 +13,7 @@ you can see [click](https://www.yzlzzz.xyz/) here to see appearance
 - Fix some bugs
 - Tags page
 - support rss
+- multiply language
 
 ## Usage
 
